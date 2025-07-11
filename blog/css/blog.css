@@ -23,7 +23,8 @@ h1,h2,h3,h4,h5 {
 	white-space:pre-wrap;
 }
 body {
-	margin:0px;
+	margin-left: 350px;
+	margin-right: 350px;
 	padding:0px;
 	height:auto;
 	inset:0px;
