@@ -6,9 +6,5 @@
 
 ## 最近博客
 
-```html
-<script>
-	console.log("Recent posts")
-</script>
-```
+<script type="text/javascript" src="blog/js/indexGen.js"></script>
 
